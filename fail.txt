@@ -2,3 +2,4 @@ esimene rida
 teine rida
 kolmas rida
 viies rida
+kuues rida
